@@ -1,5 +1,4 @@
-let isDone: boolean = false;
-
+"use strict";
+var isDone = false;
 isDone = true;
-
 console.log(typeof isDone);
